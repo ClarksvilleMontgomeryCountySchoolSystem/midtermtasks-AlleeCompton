@@ -1,6 +1,5 @@
 # Debugging Challenge - Fix the bugs in each code block
 # Each block is independent and can be fixed separately
-
 # Snippet 1:
 temperature = 75
 if temperature > 70:
