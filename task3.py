@@ -55,5 +55,5 @@ print("--------------------------")
 # Print subtotal, tax, and total here
 print(f"Subtotal: ${subtotal}")
 print(f"Tax: ${tax}")
-price(f"Total: ${total}")
+print(f"Total: ${total}")
 print("\nThank you for shopping at\nthe Peculiar Emporium!")
