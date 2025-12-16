@@ -1,6 +1,5 @@
 #AFTER PASTING YOUR ANSWER YOU MUST REMOVE THE LINE "import s"
 #YOUR CODE WILL FAIL IF YOU DO NOT DELETE THE LINE!!!!!!!!!!!!!
-import s
 # Allowance & Chore Tracker
 
 # Given variables
